@@ -5,5 +5,5 @@ spring:
     config:
       server:
         git:
-          uri:
-            search-paths:
+          uri: https://github.com/zhengshenlong/o2o_orders_mastar
+            search-paths: config-repo
