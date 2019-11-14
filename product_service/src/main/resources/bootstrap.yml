@@ -6,5 +6,3 @@ spring:
       uri: http://localhost:7001
       profile: dev #环境名称
       label: master #分支
-server:
-  port: 8082
