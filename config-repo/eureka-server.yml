@@ -3,7 +3,7 @@ server:
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:${server.port}/euerka
+      defaultZone: http://localhost:10086/euerka
     register-with-eureka: false
     fetch-registry: true
   instance:
