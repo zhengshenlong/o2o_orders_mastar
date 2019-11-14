@@ -52,18 +52,7 @@
             <artifactId>druid</artifactId>
             <version>${druid.version}</version>
         </dependency>
-        <dependency>
-            <groupId>com.zhengshenlong</groupId>
-            <artifactId>common_api</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.zhengshenlong</groupId>
-            <artifactId>common_api</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
+
 
         <dependency>
             <groupId>com.zhengshenlong</groupId>

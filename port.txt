@@ -1,3 +1,4 @@
+
 配置中心   config-server   7001
 注册中心   eureka-server   10086
 zuul网关  gateway网关      10010
